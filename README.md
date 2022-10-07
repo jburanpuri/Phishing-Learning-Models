@@ -1,6 +1,6 @@
 # Internet Security: Using ML to Identify Phishing
 
-## Used a CSV file of over 550,000 data points stating: "URL" and "Label" (label indicated whether a site was good or bad). Used this data to create and compare Logistic Regression and Naive Bayes Model. 
+### Used a CSV file of over 550,000 data points stating: "URL" and "Label" (label indicated whether a site was good or bad). Used this data to create and compare Logistic Regression and Naive Bayes Model. 
 
 ## Method Used
 1. Graphing good vs bad links from the dataset
